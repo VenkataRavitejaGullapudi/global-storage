@@ -1,0 +1,27 @@
+{
+  "name": "global-storage",
+  "version": "1.0.0",
+  "description": "Its a package that helps you to store the data globally so that you can access from any file you want. It is made with javascript. If you are using it in the nodejs server the data will exist until you restart the server. If you are using in the APIs/MicroServices/Serverless kind of frameworks data will exists per the request.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VenkataRavitejaGullapudi/global-storage.git"
+  },
+  "keywords": [
+    "global-storage",
+    "node-storage",
+    "storage",
+    "nextjs-storage",
+    "session-storage"
+  ],
+  "author": "Venkata Raviteja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VenkataRavitejaGullapudi/global-storage/issues"
+  },
+  "homepage": "https://github.com/VenkataRavitejaGullapudi/global-storage#readme"
+}
