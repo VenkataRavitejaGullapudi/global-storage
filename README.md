@@ -3,7 +3,7 @@
 - Its a package that helps you to store the data globally so that you can access from any file you want. It is made with javascript. If you are using it in the nodejs server the data will exist until you restart the server. If you are using in the APIs/MicroServices/Serverless kind of frameworks data will exists per the request.
 
 ## Installation
-`npm i global-storage`
+`npm i @ravi_sense/global-storage`
 
 
 ## Example
